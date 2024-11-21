@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/semana14s02-tarea2/static/css/main.e6c13ad2.css",
+    "main.js": "/semana14s02-tarea2/static/js/main.56e2fa0e.js",
+    "static/js/453.b19e396d.chunk.js": "/semana14s02-tarea2/static/js/453.b19e396d.chunk.js",
+    "index.html": "/semana14s02-tarea2/index.html",
+    "main.e6c13ad2.css.map": "/semana14s02-tarea2/static/css/main.e6c13ad2.css.map",
+    "main.56e2fa0e.js.map": "/semana14s02-tarea2/static/js/main.56e2fa0e.js.map",
+    "453.b19e396d.chunk.js.map": "/semana14s02-tarea2/static/js/453.b19e396d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.56e2fa0e.js"
+  ]
+}
